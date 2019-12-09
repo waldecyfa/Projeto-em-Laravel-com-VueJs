@@ -1,4 +1,4 @@
-# Desafio Full Stack da Fortics - Introdução
+# Desafio Full-Stack da Fortics
 
 ## Descrição
 
